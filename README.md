@@ -40,7 +40,6 @@ Este proyecto es la réplica del famoso juego retro StreetFigther. He usado la t
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
 
 ## Contacto
