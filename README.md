@@ -46,7 +46,7 @@ Este proyecto es la réplica del famoso juego retro StreetFigther. He usado la t
 ## Contacto
 
 - LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/lardevpro/)
-- Portafolio: [Tu Portafolio](https://lardevpro.github.io/)
+- Portafolio: [Tu Portafolio](https://lardevpro-portfolio.web.app/)
 
 ---
 
