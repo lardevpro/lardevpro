@@ -27,7 +27,6 @@ Soy técnico superior en desarrollo de aplicaciones multiplataforma recién titu
 
 
 
-## Proyectos Destacados
 
 ### [Glotter]([https://github.com/tu-usuario/proyecto-1](https://github.com/lardevpro/Jlara.SystemLangGlotter))
 Sistema de afianzamiento en la pronunciación, la compresión auditiva y la escritura del inglés. Este ha sido mi reto más desafiante ya que he utilizado ABP Framewor con Angular para UI y C# para la API.
