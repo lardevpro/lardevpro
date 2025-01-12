@@ -6,6 +6,7 @@
 ## Sobre mí
 
 Soy técnico superior en desarrollo de aplicaciones multiplataforma recién titulado. Me gustaría, con el tiempo, especializarme tanto en backend como en frontend porque disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
+Actualmente me encuentro haciendo un curso de Angular nivel experto para fortalecer mis conocimientos web.
 
 - 🌱 Actualmente estoy aprendiendo Angular.
 - 👯 Estoy buscando colaborar en proyectos que aporten realmente algo a la sociedad.
