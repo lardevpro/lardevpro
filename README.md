@@ -5,13 +5,31 @@
 
 ## Sobre mí
 
-Soy técnico superior en desarrollo de aplicaciones multiplataforma recién titulado. Me gustaría, con el tiempo, especializarme tanto en backend como en frontend porque disfruto trabajando en proyectos desafiantes y aprendiendo nuevas tecnologías.
-Actualmente me encuentro haciendo un curso de Angular nivel experto para fortalecer mis conocimientos web.
+Soy un Desarrollador Backend con experiencia en la creación de aplicaciones web utilizando Java y el framework Spring Boot. Mi enfoque se centra en el desarrollo de APIs REST eficientes y en la gestión de bases de datos MySQL. Además, poseo conocimientos en Angular, lo que me permite colaborar en soluciones full-stack.​
 
-- 🌱 Actualmente estoy aprendiendo front con Angular y React.
-- 👯 Estoy buscando colaborar en proyectos que aporten realmente algo a la sociedad.
-- 💬 Pregúntame sobre mi formación y mi experiencia laboral.
-- 📫 Puedes contactarme en lardevpro@gmail.es 
+He contribuido en proyectos como la implementación de sistemas ERP y el desarrollo de plataformas web para clientes como OPPO Community y Metalistería Madrid. También participé en un proyecto educativo que involucró el desarrollo de un videojuego en Java SE, utilizado para promocionar cursos en un centro educativo.​
+
+Me considero una persona proactiva y orientada a la mejora continua, siempre buscando nuevos desafíos que impulsen mi crecimiento profesional.​
+
+Habilidades clave:
+Java y Spring Boot​
+
+Desarrollo de APIs REST​
+
+Gestión de bases de datos MySQL​
+
+Desarrollo frontend con Angular​
+
+Integración de sistemas ERP​
+
+Pruebas y aseguramiento de calidad (QA Manual)​
+
+Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos!​
+
+📩 lardevpro@gmail.com  
+🔗 https://www.linkedin.com/in/lardevpro/
+🌐 https://lardevpro-portafolio.web.app/
+
 
 ## Tecnologías y Herramientas
 
