@@ -28,6 +28,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos!​
 
 📩 lardevpro@gmail.com  
 🔗 https://www.linkedin.com/in/lardevpro/
+
 🌐 https://lardevpro-portafolio.web.app/
 
 
