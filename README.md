@@ -5,7 +5,7 @@
 
 ## Sobre mí
 
-Soy un Desarrollador Backend con experiencia en la creación de aplicaciones web utilizando Java y el framework Spring Boot. Mi enfoque se centra en el desarrollo de APIs REST eficientes y en la gestión de bases de datos MySQL. Además, poseo conocimientos en Angular, lo que me permite colaborar en soluciones full-stack.​
+Soy Juan, un Desarrollador Backend con experiencia en la creación de aplicaciones web utilizando Java y el framework Spring Boot. Mi enfoque se centra en el desarrollo de APIs REST eficientes y en la gestión de bases de datos MySQL. Además, poseo conocimientos en Angular, lo que me permite colaborar en soluciones full-stack.​
 
 He contribuido en proyectos como la implementación de sistemas ERP y el desarrollo de plataformas web para clientes como OPPO Community y Metalistería Madrid. También participé en un proyecto educativo que involucró el desarrollo de un videojuego en Java SE, utilizado para promocionar cursos en un centro educativo.​
 
