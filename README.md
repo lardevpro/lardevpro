@@ -1,36 +1,36 @@
-# ¡Hola! 👋 Soy Juan
 
-![GitHub followers](https://img.shields.io/github/followers/lardevpro?style=social)
-![GitHub stars](https://img.shields.io/github/stars/lardevpro?style=social)
+¡Hola! 👋 Soy Juan
+Desarrollador Backend con experiencia en Java y Spring Boot. Me especializo en la creación de APIs REST eficientes y en la gestión de bases de datos MySQL. También tengo experiencia con Angular, lo que me permite colaborar en proyectos full-stack. 🚀
 
-## Sobre mí
+He trabajado en proyectos como la implementación de sistemas ERP y el desarrollo de plataformas web para clientes como OPPO Community y Metalistería Madrid. Además, desarrollé un videojuego educativo en Java SE, utilizado para promocionar cursos en un centro educativo.
 
-Soy Juan, un Desarrollador Backend con experiencia en la creación de aplicaciones web utilizando Java y el framework Spring Boot. Mi enfoque se centra en el desarrollo de APIs REST eficientes y en la gestión de bases de datos MySQL. Además, poseo conocimientos en Angular, lo que me permite colaborar en soluciones full-stack.​
+Soy una persona proactiva, orientada a la mejora continua y siempre buscando nuevos desafíos para impulsar mi crecimiento profesional.
 
-He contribuido en proyectos como la implementación de sistemas ERP y el desarrollo de plataformas web para clientes como OPPO Community y Metalistería Madrid. También participé en un proyecto educativo que involucró el desarrollo de un videojuego en Java SE, utilizado para promocionar cursos en un centro educativo.​
+Habilidades:
+Java y Spring Boot
 
-Me considero una persona proactiva y orientada a la mejora continua, siempre buscando nuevos desafíos que impulsen mi crecimiento profesional.​
+APIs REST y MySQL
 
-Habilidades clave:
-Java y Spring Boot​
+Frontend con Angular
 
-Desarrollo de APIs REST​
+Integración de sistemas ERP
 
-Gestión de bases de datos MySQL​
+QA Manual
 
-Desarrollo frontend con Angular​
+Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
-Integración de sistemas ERP​
+📩 lardevpro@gmail.com
+🔗 LinkedIn
+🌐 Portfolio
 
-Pruebas y aseguramiento de calidad (QA Manual)​
+Tecnologías y Herramientas:
+Spring Boot, Angular, Java, SQL, Git, GitHub, Visual Studio Code, IntelliJ IDEA
 
-Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos!​
+Proyectos destacados:
 
-📩 lardevpro@gmail.com  
-🔗 https://www.linkedin.com/in/lardevpro/
+Glotter: Un sistema de afianzamiento en pronunciación y escritura de inglés, desarrollado con ABP Framework y C# para la API, y Angular para la UI.
 
-🌐 https://lardevpro-portafolio.web.app/
-
+StreetFighter: Réplica del juego retro, creada con Java Swing.
 
 
 ## Tecnologías y Herramientas
