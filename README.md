@@ -33,8 +33,8 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 ### [Glotter](https://github.com/lardevpro/Jlara.SystemLangGlotter)
 Un sistema de afianzamiento en la pronunciación, la compresión auditiva y la escritura del inglés. Este ha sido mi reto más desafiante, ya que he utilizado **ABP Framework** con **Angular** para la UI y **C#** para la API. También cuenta con una base de datos con sistema gestor de base de datos **MySQL**.
 
-### [StreetFighter](https://github.com/lardevpro/Street-Figther)
-Este proyecto es la réplica del famoso juego retro **StreetFighter**. He usado la tecnología **Java Swing**, lo que lo ha hecho aún más retante al ser muy limitada.
+### [StreetFighter](https://github.com/lardevpro/Street-Figther-Maven)
+Este proyecto creado con arquitectura **Maven** es la réplica del famoso juego retro **StreetFighter**. He usado la tecnología **Java Swing**, lo que lo ha hecho aún más retante al ser muy limitada.
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lardevpro&show_icons=true&theme=dark)
