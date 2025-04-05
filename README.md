@@ -1,3 +1,11 @@
+
+
+
+![Juan Gabriel (1)](https://github.com/user-attachments/assets/36967271-0440-4963-828b-0fbdbf888a10)
+
+
+
+
 # ¡Hola! 👋 Soy **Juan**  
 **Desarrollador Backend** con experiencia en **Java** y **Spring Boot**. Me especializo en la creación de **APIs REST** eficientes y en la gestión de bases de datos **MySQL**. También tengo experiencia con **Angular**, lo que me permite colaborar en proyectos **full-stack**. 🚀
 
