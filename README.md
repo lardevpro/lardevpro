@@ -7,7 +7,7 @@
 
 
 # ¡Hola! 👋 Soy **Juan**  
-**Desarrollador Backend** con experiencia en **Java** y **Spring Boot**. Me especializo en la creación de **APIs REST** eficientes y en la gestión de bases de datos **MySQL**. También tengo experiencia con **Angular**, lo que me permite colaborar en proyectos **full-stack**. 🚀
+**Desarrollador Backend** con experiencia en **Java** y **Spring Boot**. Me especializo en la creación de **APIs REST** eficientes y en la gestión de bases de datos. También tengo experiencia con **Angular**, lo que me permite colaborar en proyectos **full-stack**. 🚀
 
 He trabajado en proyectos como la implementación de **sistemas ERP** y el desarrollo de plataformas web para clientes como **OPPO Community** y **Metalistería Madrid**. Además, desarrollé un **videojuego educativo** en **Java SE**, utilizado para promocionar cursos en un centro educativo.
 
