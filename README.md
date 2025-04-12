@@ -38,8 +38,22 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
 ## Proyectos destacados
 
-### [Glotter](https://github.com/lardevpro/Jlara.SystemLangGlotter)
-Un sistema de afianzamiento en la pronunciación, la compresión auditiva y la escritura del inglés. Este ha sido mi reto más desafiante, ya que he utilizado **ABP Framework** con **Angular** para la UI y **C#** para la API. También cuenta con una base de datos con sistema gestor de base de datos **MySQL**.
+### [APIRESTful-Node.js-Express](https://github.com/lardevpro/APIRESTful-Nodejs-Express)
+Gestión de una base de datos mediante Node.js utilizando el framework Express  Node.js + Express
+
+---> Validación de datos con esquemas propios usando zod
+
+---> crypto para crear UUIDs
+
+---> api.http para probar endpoints directamente desde el editor
+
+---> CORS para permitir peticiones cross-origin
+ 
+---> Render gestiona el entorno de producción y despliegue. 
+
+---> Base de datos PostgreSQL en Supabase. 
+
+---> Actualización automática desde GitHub al hacer push.
 
 ### [StreetFighter](https://github.com/lardevpro/Street-Figther-Maven)
 Este proyecto creado con arquitectura **Maven** es la réplica del famoso juego retro **StreetFighter**. He usado la tecnología **Java Swing**, lo que lo ha hecho aún más retante al ser muy limitada.
