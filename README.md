@@ -1,24 +1,18 @@
-
-
-
 ![Juan Gabriel (1)](https://github.com/user-attachments/assets/36967271-0440-4963-828b-0fbdbf888a10)
 
-
-
-
 # ¡Hola! 👋 Soy **Juan**  
-**Desarrollador Backend** con experiencia en **Java** y **Spring Boot**. Me especializo en la creación de **APIs REST** eficientes y en la gestión de bases de datos. También tengo experiencia con **Angular**, lo que me permite colaborar en proyectos **full-stack**. 🚀
+**Desarrollador Backend** con experiencia en **Java** y **Spring**. Me especializo en la creación de **APIs REST** eficientes y en la gestión de bases de datos. También tengo experiencia con **Angular**, lo que me permite colaborar en proyectos con diferentes roles. 🚀
 
-He trabajado en proyectos como la implementación de **sistemas ERP** y el desarrollo de plataformas web para clientes como **OPPO Community** y **Metalistería Madrid**. Además, desarrollé un **videojuego educativo** en **Java SE**, utilizado para promocionar cursos en un centro educativo.
+He trabajado en proyectos como la implementación de **sistemas ERP** y el desarrollo de plataformas web para clientes como **OPPO Community** y **Matricerías Madrid**. Además, desarrollé un **videojuego educativo** en **Java SE**, utilizado para promocionar cursos en un centro educativo.
 
 Soy una persona **proactiva**, orientada a la mejora continua y siempre buscando nuevos desafíos para impulsar mi crecimiento profesional.
 
 ## Habilidades:
-- **Java** y **Spring Boot**
+- **Java** y **Spring**
 - **APIs REST** y **MySQL**
 - **Frontend con Angular**
 - **Integración de sistemas ERP**
-- **QA Manual**
+- **Node.js/Express**
 
 Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
@@ -38,32 +32,31 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-
-
 ## Proyectos destacados
 
 ### [APIRESTful-Node.js-Express](https://github.com/lardevpro/APIRESTful-Nodejs-Express)
 Gestión de una base de datos mediante Node.js utilizando el framework Express  Node.js + Express
 
----> Validación de datos con esquemas propios usando zod
+- Validación de datos con esquemas propios usando Zod  
+- `crypto` para crear UUIDs  
+- Archivo `api.http` para probar endpoints directamente desde el editor  
+- CORS para permitir peticiones cross-origin  
+- Render gestiona el entorno de producción y despliegue  
+- Base de datos PostgreSQL en Supabase  
+- Actualización automática desde GitHub al hacer push  
 
----> crypto para crear UUIDs
+### [Spring-API-REST](https://github.com/lardevpro/SpringBoot-API-REST)
+Proyecto desarrollado con **Java 8** y **Spring**, enfocado en la creación de una **API REST** desde cero. Ideal para repasar conceptos clave de Spring Framework.
 
----> api.http para probar endpoints directamente desde el editor
-
----> CORS para permitir peticiones cross-origin
- 
----> Render gestiona el entorno de producción y despliegue. 
-
----> Base de datos PostgreSQL en Supabase. 
-
----> Actualización automática desde GitHub al hacer push.
-
-### [StreetFighter](https://github.com/lardevpro/Street-Figther-Maven)
-Este proyecto creado con arquitectura **Maven** es la réplica del famoso juego retro **StreetFighter**. He usado la tecnología **Java Swing**, lo que lo ha hecho aún más retante al ser muy limitada.
+- Gestión de dependencias con Spring 
+- Inyección de dependencias y anotaciones como `@Autowired`, `@Component`, `@Service`, `@RestController`  
+- Patrón Singleton y Prototype  
+- Propiedades configuradas en archivos `.properties`
+- Arquitectura MVC
+- JSP    
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lardevpro&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lardevpro&show_icons=true&theme=dark)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lardevpro&layout=compact&theme=dark)
 
 ## Contacto
