@@ -35,7 +35,8 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 ## Proyectos destacados
 
 ### Zapatería Web – Plataforma de Gestión y Venta de Calzado
-# Zapatería Web – Plataforma de Gestión y Venta de Calzado
+### [Zapatería Web – Plataforma de Gestión y Venta de Calzado](https://github.com/lardevpro/shoe-store-web)
+
 
 **Zapatería Web** es una aplicación full-stack desarrollada con Angular y Node.js, diseñada para digitalizar y optimizar la gestión de productos en una tienda de calzado. Este proyecto ambicioso y de impacto real integra tanto el frontend como el backend, permitiendo una experiencia de usuario moderna y eficiente para clientes y administradores.
 
@@ -53,7 +54,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
 ## Objetivo
 
-Este proyecto busca transformar la gestión tradicional de una zapatería en una experiencia digital avanzada, facilitando la administración y mejorando la experiencia de compra del usuario final.
+Este proyecto colaborativo busca transformar la gestión tradicional de una zapatería en una experiencia digital avanzada, facilitando la administración y mejorando la experiencia de compra del usuario final.
 
 ---
 
