@@ -49,31 +49,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 - **Diseño responsive:** Interfaz adaptable a dispositivos móviles y escritorio.
 - **SSR y rendimiento:** Preparado para Server-Side Rendering y optimización de carga.
 
-## Estructura del proyecto
-
-
-shoe-store-web/
-│
-├── backend/
-│   ├── app.js                # Servidor principal Express
-│   ├── schemas/              # Esquemas de validación (Zod)
-│   ├── shoes.json            # Datos de ejemplo de productos
-│   ├── services/             # Lógica de conexión a base de datos
-│   └── ...                   # Otros recursos backend
-│
-├── frontend/
-│   └── zapateria-frontend/
-│       ├── src/
-│       │   ├── app/
-│       │   │   ├── components/   # Componentes reutilizables (cards, header, footer)
-│       │   │   ├── pages/        # Vistas principales (catálogo, contacto, etc.)
-│       │   │   ├── services/     # Servicios para conexión con backend
-│       │   │   └── models/       # Interfaces y modelos de datos
-│       │   └── assets/           # Recursos estáticos
-│       └── ...                   # Configuración Angular y SSR
-│
-└── README.md
-
+---
 
 ## Objetivo
 
@@ -85,7 +61,6 @@ Este proyecto busca transformar la gestión tradicional de una zapatería en una
 
 **Estado:** En desarrollo activo 🚀
 
-shoe-store-web/ │ ├── backend/ │ ├── app.js # Servidor principal Express │ ├── schemas/ # Esquemas de validación (Zod) │ ├── shoes.json # Datos de ejemplo de productos │ ├── services/ # Lógica de conexión a base de datos │ └── ... # Otros recursos backend │ ├── frontend/ │ └── zapateria-frontend/ │ ├── src/ │ │ ├── app/ │ │ │ ├── components/ # Componentes reutilizables (cards, header, footer) │ │ │ ├── pages/ # Vistas principales (catálogo, contacto, etc.) │ │ │ ├── services/ # Servicios para conexión con backend │ │ │ └── models/ # Interfaces y modelos de datos │ │ └── assets/ # Recursos estáticos │ └── ... # Configuración Angular y SSR │ └── README.md
 
 ### [APIRESTful-Node.js-Express](https://github.com/lardevpro/APIRESTful-Nodejs-Express)
 Gestión de una base de datos mediante Node.js utilizando el framework Express  Node.js + Express
