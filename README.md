@@ -34,7 +34,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
 ## Proyectos destacados
 
-### Zapatería Web – Plataforma de Gestión y Venta de Calzado
+
 ### [Zapatería Web – Plataforma de Gestión y Venta de Calzado](https://github.com/lardevpro/shoe-store-web)
 
 
