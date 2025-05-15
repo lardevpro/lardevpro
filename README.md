@@ -8,11 +8,11 @@ He trabajado en proyectos como la implementación de **sistemas ERP** y el desar
 Soy una persona **proactiva**, orientada a la mejora continua y siempre buscando nuevos desafíos para impulsar mi crecimiento profesional.
 
 ## Habilidades:
-- **Java** y **Spring**
-- **APIs REST** y **MySQL**
-- **Frontend con Angular**
+- **Java SE - Spring - SpringBoot - API-REST**
+- **SQL (MySQL, PosgreSQL, mariaDB, Oracle)**
+- **Angular (TypeScript, CSS, HTML)**
 - **Integración de sistemas ERP**
-- **Node.js/Express**
+- **JavaScript (Node.js/Express) - APIs RESTful**
 
 Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 
