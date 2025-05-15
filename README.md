@@ -35,17 +35,22 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos! 🤝
 ## Proyectos destacados
 
 ### Zapatería Web – Plataforma de Gestión y Venta de Calzado
-Zapatería Web es una aplicación full-stack desarrollada con Angular y Node.js, diseñada para digitalizar y optimizar una tienda de calzado. Este proyecto ambicioso y de impacto real integra tanto el frontend como el backend, permitiendo una experiencia de usuario moderna y eficiente para clientes y administradores.
+# Zapatería Web – Plataforma de Gestión y Venta de Calzado
 
-Características principales
-Catálogo interactivo: Visualización dinámica de productos con filtros por talla, género, categoría y marca.
-Gestión de inventario: Administración de stock, precios y descripciones desde el backend.
-Panel de administración: Herramientas para agregar, editar y eliminar productos fácilmente.
-Integración con bases de datos: Persistencia de datos usando SQL y conexión segura mediante API REST.
-Validación robusta: Uso de Zod para validar datos tanto en frontend como en backend.
-Diseño responsive: Interfaz adaptable a dispositivos móviles y escritorio.
-SSR y rendimiento: Preparado para Server-Side Rendering y optimización de carga.
-Estructura del proyecto
+**Zapatería Web** es una aplicación full-stack desarrollada con Angular y Node.js, diseñada para digitalizar y optimizar la gestión de productos en una tienda de calzado. Este proyecto ambicioso y de impacto real integra tanto el frontend como el backend, permitiendo una experiencia de usuario moderna y eficiente para clientes y administradores.
+
+## Características principales
+
+- **Catálogo interactivo:** Visualización dinámica de productos con filtros por talla, género, categoría y marca.
+- **Gestión de inventario:** Administración de stock, precios y descripciones desde el backend.
+- **Panel de administración:** Herramientas para agregar, editar y eliminar productos fácilmente.
+- **Integración con bases de datos:** Persistencia de datos usando SQL y conexión segura mediante API REST.
+- **Validación robusta:** Uso de Zod para validar datos tanto en frontend como en backend.
+- **Diseño responsive:** Interfaz adaptable a dispositivos móviles y escritorio.
+- **SSR y rendimiento:** Preparado para Server-Side Rendering y optimización de carga.
+
+## Estructura del proyecto
+
 
 shoe-store-web/
 │
@@ -69,14 +74,18 @@ shoe-store-web/
 │
 └── README.md
 
-Objetivo
-Este proyecto busca transformar la gestión tradicional de una zapatería en una experiencia digital avanzada, facilitando la administración y mejorando la experiencia del usuario final.
 
-Tecnologías: Angular, Node.js, Express, MySQL, Zod, TypeScript, SCSS
+## Objetivo
 
-Estado: En desarrollo activo 🚀
+Este proyecto busca transformar la gestión tradicional de una zapatería en una experiencia digital avanzada, facilitando la administración y mejorando la experiencia de compra del usuario final.
 
+---
 
+**Tecnologías:** Angular, Node.js, Express, MySQL, Zod, TypeScript, SCSS
+
+**Estado:** En desarrollo activo 🚀
+
+shoe-store-web/ │ ├── backend/ │ ├── app.js # Servidor principal Express │ ├── schemas/ # Esquemas de validación (Zod) │ ├── shoes.json # Datos de ejemplo de productos │ ├── services/ # Lógica de conexión a base de datos │ └── ... # Otros recursos backend │ ├── frontend/ │ └── zapateria-frontend/ │ ├── src/ │ │ ├── app/ │ │ │ ├── components/ # Componentes reutilizables (cards, header, footer) │ │ │ ├── pages/ # Vistas principales (catálogo, contacto, etc.) │ │ │ ├── services/ # Servicios para conexión con backend │ │ │ └── models/ # Interfaces y modelos de datos │ │ └── assets/ # Recursos estáticos │ └── ... # Configuración Angular y SSR │ └── README.md
 
 ### [APIRESTful-Node.js-Express](https://github.com/lardevpro/APIRESTful-Nodejs-Express)
 Gestión de una base de datos mediante Node.js utilizando el framework Express  Node.js + Express
