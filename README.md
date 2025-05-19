@@ -74,7 +74,7 @@ Gestión de una base de datos mediante Node.js utilizando el framework Express  
 - Base de datos PostgreSQL en Supabase  
 - Actualización automática desde GitHub al hacer push  
 
-### [Spring-API-REST](https://github.com/lardevpro/SpringBoot-API-REST)
+### [Spring-API-REST](https://github.com/lardevpro/spring-web-fundamentals)
 Proyecto desarrollado con **Java 8** y **Spring**, enfocado en la creación de una **API REST** desde cero. Ideal para repasar conceptos clave de Spring Framework.
 
 - Gestión de dependencias con Spring 
