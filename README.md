@@ -63,7 +63,7 @@ Este proyecto colaborativo busca transformar la gestión tradicional de una zapa
 **Estado:** En desarrollo activo 🚀
 
 
-### [APIRESTful-Node.js-Express](https://github.com/lardevpro/APIRESTful-Nodejs-Express)
+### [APIRESTful-Node.js-Express](https://github.com/lardevpro/rest-api-node.js-deploy)
 Gestión de una base de datos mediante Node.js utilizando el framework Express  Node.js + Express
 
 - Validación de datos con esquemas propios usando Zod  
